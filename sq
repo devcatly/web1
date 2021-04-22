@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Parcel Sandbox</title>
+    <meta charset="UTF-8" />
+  </head>
+
+  <body>
+    <p translate="yes">Apple is an American multinational technology company </p>
+    <p translate="no">Apple is an American multinational technology company </p>
+  </body>
+</html>
